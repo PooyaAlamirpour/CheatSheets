@@ -5,5 +5,8 @@ This repository was created for collecting suitable data as CheetSheet. If you h
 ### 001.pdf	
 Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data. [Reference](http://www.asimovinstitute.org/neural-network-zoo/).
 
+### 002.pdf
+Cheat Sheets for AI Neural Networks, Machine Learning, DeepLearning & Big Data. [Reference](http://BecomingHuman.AI).
+
 ## Author
 - Pooya Alamirpour [P.Alamirpour](pooya.alamirpour@gmail.com).
